@@ -1,0 +1,2 @@
+ru/digitalhabbits/homework2/E2ETests.java
+ ru.digitalhabbits.homework2.E2ETests
